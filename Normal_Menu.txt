@@ -1,0 +1,8 @@
+1 : eye-opthalmologist-name
+2 : bones-orthopaedician-name
+3 : childcare-paediatrician-name
+4 : excretory-urologist-name
+5 : skin-dermatologist-name
+6 : MRI x-ray-radiologist-name
+7 : blood urine test-pathologist-name
+8 : breathing problem-pulmonologist-name

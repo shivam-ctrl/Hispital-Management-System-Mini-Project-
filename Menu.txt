@@ -1,0 +1,9 @@
+1 : Insert normal patient
+2 : Insert emergency patient
+3 : Print normal Patient Details
+4 : Print emergency Patient Details
+5 : Diagnose existed patient
+6 : Total Fee
+7 : Total Patient
+8 : Exit
+9 : Save Record
